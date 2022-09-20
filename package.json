@@ -1,0 +1,10 @@
+{
+  "name": "objectinator",
+  "version": "0.1.0",
+  "description": "Transform an array into an object.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["array", "object"],
+  "author": "micziz",
+  "license": "Apache-2.0"
+}
