@@ -27,7 +27,7 @@ import { transformIntoObject } from 'objectinator';
 
 let arr = ["Hi", "Hello"]
 
-const obj = transformIntoObject(oob)
+const obj = transformIntoObject(arr)
 console.log(obj)
 ```
 
